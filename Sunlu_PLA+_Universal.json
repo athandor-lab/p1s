@@ -1,0 +1,26 @@
+{
+  "name": "Sunlu PLA+ Universal",
+  "type": "PLA",
+  "diameter": 1.75,
+  "density": 1.24,
+  "color": "#FF6600",
+  "nozzle_temperature": {
+    "initial_layer": 215,
+    "other_layers": 215,
+    "min": 205,
+    "max": 220
+  },
+  "bed_temperature": {
+    "initial_layer": 60,
+    "other_layers": 60
+  },
+  "cooling": {
+    "initial_layer_fan": 30,
+    "other_layers_fan": 100
+  },
+  "print_speed": {
+    "default": 100
+  },
+  "softening_temperature": 54,
+  "velocity_adaptation_factor": 1
+}
